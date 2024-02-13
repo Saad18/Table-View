@@ -6,7 +6,22 @@ export const checkBoxColumns = [
 ];
 
 export const data = [
-    { firstname: "John", lastname: "Doe", email: "john@example.com", address: "Vietnam" },
-    { firstname: "Mary", lastname: "Moe", email: "mary@example.com", address: "Japan" },
-    { firstname: "July", lastname: "Dooley", email: "july@example.com", address: "Bulgeria" }
+    {
+        firstname: "John",
+        lastname: "Doe",
+        email: "john@example.com",
+        address: "Vietnam"
+    },
+    {
+        firstname: "Mary",
+        lastname: "Moe",
+        email: "mary@example.com",
+        address: "Japan"
+    },
+    {
+        firstname: "July",
+        lastname: "Dooley",
+        email: "july@example.com",
+        address: "Bulgeria"
+    }
 ];
