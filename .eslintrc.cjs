@@ -18,4 +18,10 @@ module.exports = {
       { allowConstantExport: true },
     ],
   },
+  get protTypes(){
+    return {
+      children: this.protTypes.any,
+      setTimeout: this.protTypes.func
+    }
+  }
 }
